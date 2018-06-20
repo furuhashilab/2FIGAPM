@@ -27,3 +27,7 @@ The 2nd FIG Young Surveyor Network Asian Pacific Meeting in Tokyo 2018
 ![2figapw_graphicrecording06](https://user-images.githubusercontent.com/416977/41653027-c998d8c4-74bf-11e8-88a9-962dd061c5f5.jpg)
 
 ![2figapw_graphicrecording04](https://user-images.githubusercontent.com/416977/41653029-c9f47698-74bf-11e8-83c6-c32b096fe809.jpg)
+
+### License
+© Furuhashi Laboratory, CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/deed.ja
