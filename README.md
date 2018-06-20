@@ -3,12 +3,13 @@ The 2nd FIG Young Surveyor Network Asian Pacific Meeting in Tokyo 2018
 
 ## Graphic Recording
 
-### Members
+### Furuhashi Lab. Graphic Recorder Members
 * Atsuko NAKANISHI
 * Mariko NAGANO
 * Misa NAKAI
 * Yuka KATO
 * Yuna WATANABE
+
 
 ### Outputs
 
