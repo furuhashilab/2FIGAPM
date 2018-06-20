@@ -1,4 +1,4 @@
-# 2FIGAPW
+# 2FIGAPM
 The 2nd FIG Young Surveyor Network Asian Pacific Meeting in Tokyo 2018
 
 ## Graphic Recording
